@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#app{
+    background-color: blue;
+}
+#my_Carucel{
+    background-color: beige;
+}
+#my_Carucel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color: blue;
+    font-size: 20px;
+}
+
